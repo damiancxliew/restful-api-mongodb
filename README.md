@@ -97,18 +97,4 @@ python run-app.py
 ```
 
 Once the application is started, go to [localhost](http://localhost:5000/)
-on Postman and explore the APIs.
-
-
-#### Testcases
-
-##### 1) Create
-
-
-##### 1) Read
-
-
-##### 1) Update
-
-
-##### 1) Delete
+on Postman and explore the APIs using the testcases shown in "APIDocumentation.md".
