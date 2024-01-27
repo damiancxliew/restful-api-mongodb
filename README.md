@@ -93,7 +93,7 @@ You can install Postman through this link: https://www.postman.com/downloads/
 ##### Start the application
 
 ```bash
-python run-app.py
+python app.py
 ```
 
 Once the application is started, go to [localhost](http://localhost:5000/)
