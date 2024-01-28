@@ -96,5 +96,5 @@ You can install Postman through this link: https://www.postman.com/downloads/
 python app.py
 ```
 
-Once the application is started, go to [localhost](http://localhost:5000/)
+Once the application has been started, go to [localhost](http://localhost:5000/)
 on Postman and explore the APIs using the testcases shown in "APIDocumentation.md".
